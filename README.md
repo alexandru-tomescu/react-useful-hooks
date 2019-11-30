@@ -1,2 +1,2 @@
-# react-useful-hooks
+# react-useful-hooks &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/alexandru-tomescu/react-useful-hooks/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react-useful-hooks.svg?style=flat)](https://www.npmjs.com/package/react-useful-hooks) [![Build Status](https://travis-ci.com/alexandru-tomescu/react-useful-hooks.svg?branch=master)](https://travis-ci.com/alexandru-tomescu/react-useful-hooks)
 Library with custom React hooks for React functional components
