@@ -6,7 +6,8 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Mocking tests\" && exit 0",
-    "build": "tsc"
+    "build": "tsc",
+    "prepublishOnly": "npm run test && npm run build"
   },
   "repository": {
     "type": "git",
