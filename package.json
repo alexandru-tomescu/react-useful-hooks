@@ -1,6 +1,6 @@
 {
   "name": "react-useful-hooks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library with custom React hooks for React functional components",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
